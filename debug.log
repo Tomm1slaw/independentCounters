@@ -1,0 +1,6 @@
+[0825/220751.828:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0825/220751.841:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0825/220751.848:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0825/222647.637:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0825/222647.640:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0825/222647.643:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
